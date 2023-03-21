@@ -3,4 +3,4 @@
 
 Совсем недавно я начал обучение в Нетологии по программе Python-разработчик с нуля.
 
-C:\Users\araco\Desktop\Безымянный.png
+C:\Users\araco\Desktop\Homework\Безымянный.png
